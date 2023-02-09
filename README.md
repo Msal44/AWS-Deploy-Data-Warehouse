@@ -17,6 +17,7 @@ Analyzed the data with query editor v2 in Amazon Redshift.
 
 The link below goes to the youtube video where walkthorugh all of this.
 
+<!DOCTYPE html>
 <html>
 <div style="position:relative;width:fit-content;height:fit-content;">
             <a style="position:absolute;top:20px;right:1rem;opacity:0.8;" href="https://clipchamp.com/watch/egIJ9GMXeO3?utm_source=embed&utm_medium=embed&utm_campaign=watch">
