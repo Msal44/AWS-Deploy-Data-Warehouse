@@ -18,10 +18,5 @@ Analyzed the data with query editor v2 in Amazon Redshift.
 The link below goes to the youtube video where walkthorugh all of this.
 
 <html>
-  <head>
-    <title>Embed YouTube Video Example</title>
-  </head>
-  <body>
    <iframe width="560" height="315" src="https://www.youtube.com/embed/Q7ZQ80qMvrM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  </body>
 </html>
